@@ -10,7 +10,7 @@ It includes several implementations, such as `Stream`, `Repeater`, `Never`, and 
 Include the library in your Go project:
 
 ```bash
-go get github.com/your-repo/flow
+go get github.com/bobcatalyst/flow
 ```
 
 ## Implementations
